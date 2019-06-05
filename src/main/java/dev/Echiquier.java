@@ -14,13 +14,17 @@ public class Echiquier {
 
 	}
 
-	public Piece getPiece(Position p) {
+	/*
+	 * public Piece getPiece(Position p) {
+	 * 
+	 * }
+	 */
 
-	}
-
-	public int getPoints(char couleur) {
-
-	}
+	/*
+	 * public int getPoints(char couleur) {
+	 * 
+	 * }
+	 */
 
 	public void afficher() {
 
